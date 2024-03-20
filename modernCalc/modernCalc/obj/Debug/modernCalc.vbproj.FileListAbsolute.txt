@@ -1,0 +1,14 @@
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.vbproj.AssemblyReference.cache
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.vbproj.SuggestedBindingRedirects.cache
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.Form1.resources
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.Resources.resources
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.vbproj.GenerateResource.cache
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.vbproj.CoreCompileInputs.cache
+D:\activity\calcuJep\modernCalc\modernCalc\bin\Debug\modernCalc.exe.config
+D:\activity\calcuJep\modernCalc\modernCalc\bin\Debug\modernCalc.exe
+D:\activity\calcuJep\modernCalc\modernCalc\bin\Debug\modernCalc.pdb
+D:\activity\calcuJep\modernCalc\modernCalc\bin\Debug\modernCalc.xml
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.exe
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.xml
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.pdb
+D:\activity\calcuJep\modernCalc\modernCalc\obj\Debug\modernCalc.history.resources
